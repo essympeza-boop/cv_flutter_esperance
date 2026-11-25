@@ -6,4 +6,4 @@
 
 ![page](page.PNG)
 
-![TutorielCRUD](tutorialcrud.mp4)
+![tutorialcrud](tutorialcrud.mp4)
