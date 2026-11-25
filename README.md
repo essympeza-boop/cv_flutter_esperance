@@ -6,4 +6,4 @@
 
 ![page](page.PNG)
 
-<video src="./tutorialcrud.mp4" controls="controls" style="max-width: 730px;"></video>
+<video src="tutorialcrud.mp4" controls="controls" style="max-width: 730px;"></video>
